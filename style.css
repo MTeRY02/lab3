@@ -3,6 +3,17 @@
 }
 
 
+.con{
+    display: grid;
+    grid-template-columns: 1fr 10fr 1fr;
+    column-gap: 0px;
+    background-color: rgb(131, 128, 128);
+}
+
+.img{
+    max-width: 100%;
+    max-height: 100%;
+}
 
 /* i want to add a bear background */
 h1 {
