@@ -15,6 +15,17 @@
     max-height: 100%;
 }
 
+.text{
+    font-size: 25px;
+    border: solid;
+    border-color:  rgb(131, 128, 128);
+    border-radius: 8px;
+}
+
+form{
+    background-color: rgb(223, 61, 40);
+    display: inline;
+}
 /* i want to add a bear background */
 h1 {
     color: rebeccapurple;
